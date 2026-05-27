@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervonnect",
+        "uuid": 13040863,
+        "checksum": "ne1q1o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
